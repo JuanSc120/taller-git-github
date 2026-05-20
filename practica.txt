@@ -1,0 +1,6 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre: Juan Sebastian Carvajal Sierra
+Curso: Aplicaciones Open Source
+Fecha: 20-05-2026
+
